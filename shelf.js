@@ -1,0 +1,3 @@
+function Shelf() {
+  this.books = {};
+};
